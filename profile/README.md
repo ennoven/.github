@@ -38,6 +38,3 @@ Para preguntas o discusiones, únete a nuestra comunidad y participa en nuestros
 Si necesitas ayuda, contacta a nuestro equipo de soporte:
 - 📧 **Sergio Castro (Co-CEO)**: sergio.castro@ennoven.mx
 - 📧 **Kenneth Díaz (Desarrollador de IA y RPA)**: kenneth.diaz@ennoven.mx
-
-## 🍿 Datos Curiosos
-¿Sabías que nuestro equipo tiene una gran variedad de gustos para el desayuno? Desde tacos de chilaquiles hasta croissants con café, ¡cada mañana es una nueva aventura culinaria!
